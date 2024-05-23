@@ -1,0 +1,12 @@
+/opt/homebrew/Cellar/copier/9.2.0_1/libexec/lib/python3.12/site-packages/copier/vcs.py:202: DirtyLocalWarning: Dirty template changes included automatically.
+  warn(
+
+Copying from template version 0.0.0.post2.dev0+c6e2126
+[36m identical[39m[0m  .
+[32m[1m    create[39m[0m  .copier-answers.yml
+[32m[1m    create[39m[0m  .github
+[32m[1m    create[39m[0m  .github/copier-renovate.json5
+[32m[1m    create[39m[0m  .github/renovate.json5
+[32m[1m    create[39m[0m  .github/workflows
+[32m[1m    create[39m[0m  .github/workflows/renovate.yml
+[32m[1m    create[39m[0m  .github/entrypoint.sh
